@@ -1,3 +1,2 @@
 #!/bin/bash
-# This script creates a file with a complex name and writes "Best School" into it
 echo "Best School" > \\\'"Best School"\'\\$\?\\\\\*:
